@@ -1,2 +1,2 @@
-# Creat-SE4AI
+# CREAT-SE4AI
 This is experimental copy
